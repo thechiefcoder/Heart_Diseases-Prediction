@@ -4,6 +4,7 @@ This project aims to apply data analysis and machine learning techniques to a he
 You will use the UCI Heart Disease Dataset, which contains records of patients with varyingdegrees of heart disease. The dataset can be found at [UCI Machine Learning Repository:Heart Disease Data Set](https://archive.ics.uci.edu/ml/datasets/heart+Disease).
 
 Appendix 
-EDA
+
+EDA(Exploratory Data Analysis 
 
 Predictive Model
