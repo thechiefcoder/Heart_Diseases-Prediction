@@ -5,4 +5,5 @@ You will use the UCI Heart Disease Dataset, which contains records of patients w
 
 Appendix 
 EDA
+
 Predictive Model
